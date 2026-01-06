@@ -13,5 +13,3 @@ This project applies supervised machine learning techniques to solve a classific
 ## Results
 The final model achieved strong predictive performance and met the project’s evaluation requirements.
 
-## Files
-- `*.ipynb` – main analysis and modeling notebooks

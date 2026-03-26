@@ -58,13 +58,15 @@ All models were evaluated and compared to determine the most effective combinati
 The model successfully classifies reviews with strong performance, showing that simple models can perform well with proper preprocessing and feature engineering.
 
 ---
-
 ## 🛠️ Tools & Libraries
 - Python  
 - Pandas  
 - NumPy  
 - Scikit-learn  
 - spaCy  
+- NLTK  
+- LightGBM  
+- Matplotlib / Seaborn  
 
 ---
 

@@ -29,7 +29,7 @@ Each review is processed and transformed into features for model training.
 - Lemmatization using spaCy
 - TF-IDF vectorization
 - Model training:
-  - Logistic Regression
+ 
  
 ## 🤖 Modeling Approach
 
